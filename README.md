@@ -2,6 +2,7 @@
 A simple implementation of a simulation of a PWR (Pressurized Water Reactor). Everything is made from scratch. It has several key features often seen in full-fledged Monte Carlos Simulation engines! It samples the watt spectrum for the random assignment of energy for neutrons and more!
 
 **FOR EDUCATIONAL PURPOSES ONLY**
+**THE JSON DATASET HAS BEEN PARSED FROM DATA GOT FROM IAEA (International Atomic Energy Agency)**
 
 # **How this works**
 Firstly this doesn't emulate a PWR reactor completely, but rather is a stripped-down simple implementation!
@@ -74,5 +75,15 @@ So here is the full flow:
         - System geometry
      
   IT HAS SOME ADDITIONAL FUNCTIONS THAT ARE UNUSED THAT COULD BE USED FOR FURTHER DEVELOPMENT [SOME ARE A BIT ADVANCED - FEEL FREE TO CHECK IT OUT OR CONTRIBUTE!]
+# CREDITS:
 
-  THANKS! HAVE A G'DAY! :)
+DATASET TITLE: Neutron Total Cross Sections of 232Th, 237Np, 235,238U,
+and 239Pu from 3 to 230 MeV
+
+AUTHORS: P.W.Lisowski,M.S.Moore,G.L.Morgan
+
+DATA: CS [cross-sectional]
+
+INSTITUTE: 	Los Alamos National Laboratory, NM , USA
+
+  THANKS! HAVE A GOOD DAY! :)
