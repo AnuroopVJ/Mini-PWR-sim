@@ -87,4 +87,7 @@ DATA: CS [cross-sectional]
 
 INSTITUTE: 	Los Alamos National Laboratory, NM , USA
 
+# LICESNSE
+MIT LICENSE
+
   THANKS! HAVE A GOOD DAY! :)
